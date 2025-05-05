@@ -7,3 +7,5 @@ option. There is the built in "delay" feature but it seems to way too short, lik
 
 This extension just makes it easier to toggle the notifications on/off without going
 into settings.
+
+![Screenshot From 2025-05-05 10-15-10](https://github.com/user-attachments/assets/2b7daed4-dba8-45fb-8315-9260ad34621f)
