@@ -9,3 +9,13 @@ This extension just makes it easier to toggle the notifications on/off without g
 into settings.
 
 ![Screenshot From 2025-05-05 10-15-10](https://github.com/user-attachments/assets/2b7daed4-dba8-45fb-8315-9260ad34621f)
+
+## Installation
+Clone the repository into ~/.local/share/gnome/extensions as wellbeingtoggle@m51.io:
+
+```bash
+git clone git@github.com:Fingel/gnome-ext-wellbeing-toggle.git ~/.local/share/gnome/extensions/wellbeingtoggle@m51.io
+```
+
+Log in/out of gnome and enable the extension either with [extension manager](https://flathub.org/apps/com.mattjakeman.ExtensionManager) or the official GNOME
+extensions app, or using the command `gnome-extensions enable wellbeingtoggle@m51.io`.
