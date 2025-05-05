@@ -1,4 +1,4 @@
-# gnome-ext-wellbeing-toggle
+# Wellbing Toggle Gnome Extension
 Toggle wellbeing reminders on/off easily from the GNOME quick settings menu.
 
 The GNOME wellbeing features are great but then can get really annoying during meetings
