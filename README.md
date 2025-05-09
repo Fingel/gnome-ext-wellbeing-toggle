@@ -11,6 +11,11 @@ into settings.
 ![Screenshot From 2025-05-05 10-15-10](https://github.com/user-attachments/assets/2b7daed4-dba8-45fb-8315-9260ad34621f)
 
 ## Installation
+
+### Gnome Extenstion Store
+Available on the store at [https://extensions.gnome.org/extension/8098/wellbeing-toggle/](https://extensions.gnome.org/extension/8098/wellbeing-toggle/)
+
+### Manual 
 Clone the repository into ~/.local/share/gnome-shell/extensions as wellbeingtoggle@m51.io:
 
 ```bash
