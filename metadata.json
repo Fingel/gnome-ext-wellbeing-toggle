@@ -3,5 +3,5 @@
   "description": "Toggle wellbeing reminders from the quick settings menu.",
   "uuid": "wellbeingtoggle@m51.io",
   "url": "https://github.com/Fingel/gnome-ext-wellbeing-toggle",
-  "shell-version": ["48"]
+  "shell-version": ["48", "49"]
 }
